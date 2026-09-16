@@ -1,5 +1,4 @@
-**# Game Studio Brainstorming Template
-<!-- NOTE: remove the bracketted examples/placeholders as you fill things in, only keep brackets if they're a checkbox -->
+
 ## Studio Name Ideas
 - **Primary Ideas:**
   - SDSSTudio
@@ -7,7 +6,6 @@
   - HPs
 - **Alternative Ideas:**
   - Mart Tudio
-
 
 - **Chosen Name**: SDSSTudio
 - **About the name**: short for super dumb silly shit tudio
