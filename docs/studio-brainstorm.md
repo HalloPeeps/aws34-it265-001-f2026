@@ -1,4 +1,3 @@
-
 ## Studio Name Ideas
 - **Primary Ideas:**
   - SDSSTudio
@@ -77,10 +76,10 @@
   - we dont balance our games
 
 -- **Sketches/Logo**:
-
+<img width="796" height="663" alt="SSDSTudio-lineboiler" src="https://github.com/user-attachments/assets/692e4aab-ff07-415d-a4ec-a7b28d0303ef" />
 ---
 
 ## Additional Notes
 *Include any other ideas, inspirations, or thoughts related to your studio or project.*
 
-> [Free space for brainstorming!]**
+> Inspiration from TABG (self shooting revolver)
