@@ -1,8 +1,3 @@
----
-layout: default
-title: "IT265 Module 2: One-Page Treatment"
----
-
 # IT265 Module 2: One-Page Treatment
 
 **Working game title:**
