@@ -7,8 +7,11 @@ Write one coherent, one-page-length treatment. Use the four prompts to begin, th
 ## Four-Sentence Core
 
 1. **Premise:** Who is the player, what is the situation, and what problem matters?
+The player is a competitor in a two-player, turn-based combat game, where they play cards to gain the upper hand against the opponent as they progress through minigames.
 2. **Experience and loop:** What should play feel like, and what does the player repeatedly decide or do?
+The play should feel fast paced, yet thought out, as they
 3. **Goal and pressure:** What changes, what limits the player, and how does play end?
+
 4. **Scope:** What makes this version distinctive, and what can you test first with affordable physical materials?
 
 ## Treatment Draft
