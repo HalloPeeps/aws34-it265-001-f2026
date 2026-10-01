@@ -16,7 +16,6 @@ The game forces a draw, which means the hand a player holds is constantly changi
 I think the simple stuff, such as peeling an orange with oven mitts, versus peeling an orange with scissors can be tested; where one should be almost impossible, and the other should be easier than peeling an orange with bare fingers.
 ## Treatment Draft
 
-[Write your treatment here.]
 The Paralympic Minigames is a competitive turn-based 1v1 card/physical activity game, where decisions made in prior rounds can affect the outcome of what comes next. These cards are either {Restriction} cards, or {Strategic} cards. {Restriction} cardscan be given to yourself or the opponent, while {Strategic} cards can only be used accordingly and cards do not count as placed. Players start with 3 cards and 5 lives. First to fail a minigame at 0 lives is deemed the loser. Players may hold up to 6 cards. If a card is drawn unto a full hand, one card [that is not the newly drawn card] must be sent back into the deck. Players may not use the card they are discarding.
 
 Like every card game, the game will loop upon phases. In this game there are four: draw, cards, fight, and reset. 
