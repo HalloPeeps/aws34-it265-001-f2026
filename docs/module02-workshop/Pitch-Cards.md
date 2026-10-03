@@ -7,7 +7,7 @@ title: "IT265 Module 2: Concept Pitch Cards"
 
 Copy this card for each of your two or three shortlisted concepts. Aim to explain each in about one minute. Use your [idea bank](./Idea-Bank.html) as a starting point.
 
-## Pitch Card1
+## Pitch Card 1
 
 **Working title:** Everything Hates You
 
