@@ -21,7 +21,7 @@ Copy this card for each of your two or three shortlisted concepts. Aim to explai
 
 **Smallest useful physical prototype:** Probably a DND panel with a protractor ruler (kind of like how you can use angles in virtual pool)
 
-**Question I want listeners to answer:** "what's the best way you can turn the environment to my advantage?"
+**Question I want listeners to answer:** "What's the best way you can turn the environment to my advantage?"
 
 
 ## Pitch Card 2
@@ -38,11 +38,7 @@ Copy this card for each of your two or three shortlisted concepts. Aim to explai
 
 **Smallest useful physical prototype:** Hand drawn cards that use the cheapest items can be used to make a small prototype.
 
-**Question I want listeners to answer:**
-
-
-**Question I want listeners to answer:** "what's the best way you can turn the environment to my advantage?"
-
+**Question I want listeners to answer:** "While considering how this might be hard for me, what can I do to minimize my handicap and maximize my opponent's?"
 
 
 Keep the cards together in this document and link its rendered page from your workshop index. They support the journal and treatment rather than adding another graded submission.
