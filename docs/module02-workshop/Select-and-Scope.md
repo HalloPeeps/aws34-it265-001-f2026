@@ -18,10 +18,10 @@ Compare the feedback for all your pitches before selecting one. Keep useful alte
 
 **Other ideas to keep for later:** Shorten the Scope
 
-First physical prototype boundary: Create one simple minigame with a clear objective, basic rules, and physical components that can be tested by players.
+**First physical prototype boundary:** Create one simple minigame with a clear objective, basic rules, and physical components that can be tested by players.
 
-One feature to defer: Multiple minigames or advanced digital features such as scoring systems, character customization, or online multiplayer.
+**One feature to defer:** Multiple minigames or advanced digital features such as scoring systems, character customization, or online multiplayer.
 
-One risk to test next: Whether the minigame is actually fun and challenging without becoming too difficult
+**One risk to test next:** Whether the minigame is actually fun and challenging without becoming too difficult
 
 Carry this decision into the [one-page treatment](./One-Page-Treatment.html) and [first journal entry](./First-Hournal-Entry.html). Link this document's rendered page from your workshop index. It supports those documents rather than adding another graded submission.
