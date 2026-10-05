@@ -9,7 +9,7 @@ Use one copy for each concept you review. Keep actual workshop notes together in
 
 **Concept:**
 
-**Reviewer initials:**
+**Reviewer initials:**AS
 
 **In my words, the player repeatedly:**
 
@@ -23,4 +23,4 @@ Use one copy for each concept you review. Keep actual workshop notes together in
 
 **One actionable suggestion:**
 
-Give your notes to the designer. Designers can use the feedback in the [selection sheet](./04-select-and-scope.html) and journal entry. Link this document's rendered page from your workshop index.
+Give your notes to the designer. Designers can use the feedback in the [selection sheet](./Select-and-Scopecope.html) and journal entry. Link this document's rendered page from your workshop index.
